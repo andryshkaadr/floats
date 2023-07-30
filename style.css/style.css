@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.example {
+    margin: 50px 0px;
+}
+
+.margin-sides {
+    margin: 0px 10px;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+.large {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+    padding: 50px;
+}
+
+.small {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ff0000;
+    padding: 30px 0px 0px 20px;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left; 
+}
+
+
